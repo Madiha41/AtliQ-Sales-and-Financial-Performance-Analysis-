@@ -43,7 +43,7 @@ Create a _[customer performance report](https://github.com/Mdiha23/AtliQ-Sales-a
 ## Financial Analysis
 Profit and Loss Statement by Fiscal Year Report: Evaluates financial performance over the years, focusing on net sales, COGS, and gross margins. [P&L BY FISCAL YEAR](https://github.com/Mdiha23/AtliQ-Sales-and-Financial-Performance-Analysis-/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf)
 
- Create Profit and Loss (P&L) reports by _[Markets](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/P%26L%20Statement%20by%20Markets.pdf)
+ Create Profit and Loss (P&L) reports by _[Markets](https://github.com/Mdiha23/AtliQ-Sales-and-Financial-Performance-Analysis-/blob/main/P%26L%20Statement%20by%20Markets.pdf)
 
  Create Profit and Loss (P&L) reports by _[Month](https://github.com/Mdiha23/AtliQ-Sales-and-Financial-Performance-Analysis-/blob/main/P%26L%20Statement%20by%20Months.pdf)
 
