@@ -37,8 +37,7 @@ Conditional Formatting: Applied to highlight important trends and anomalies in d
 ## Sales Analysis
 Market Performance vs Target Report: Analyzes sales performance across various markets compared to targets. _[market performance and sales targets](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf)_
 
-Create a _[customer performance report](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf)
-
+Create a _[customer performance report](https://github.com/Mdiha23/AtliQ-Sales-and-Financial-Performance-Analysis-/blob/main/Customer%20Performance%20Report.pdf)
 
 
 ## Financial Analysis
