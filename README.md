@@ -45,7 +45,7 @@ Profit and Loss Statement by Fiscal Year Report: Evaluates financial performance
 
  Create Profit and Loss (P&L) reports by _[Markets](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/P%26L%20Statement%20by%20Markets.pdf)
 
- Create Profit and Loss (P&L) reports by _[Month](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/P%26L%20Statement%20by%20Markets.pdf)
+ Create Profit and Loss (P&L) reports by _[Month](https://github.com/Mdiha23/AtliQ-Sales-and-Financial-Performance-Analysis-/blob/main/P%26L%20Statement%20by%20Months.pdf)
 
  **Purpose of sales analytics:** Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
 
