@@ -57,8 +57,9 @@ This project leverages various Excel techniques, including:
 ### Financial Analysis
 1. [Profit and Loss Statement by Fiscal Year](https://github.com/Madiha41/AtliQ-Sales-and-Financial-Performance-Analysis-/blob/main/P%20%26%20L%20By%20Fiscal%20Year.pdf): Evaluates financial performance over the years, focusing on net sales, COGS, and gross margins.
 2. [Profit and Loss Statement by Market](#): Breaks down the P&L by different markets to understand regional performance.
-3. [Profit and Loss Statement by Month](#): Provides a month-by-month analysis of the P&L to identify trends and anomalies.
-4. [Gross Margin % by Quarters](#): Analyzes gross margin percentages across different quarters, segmented by sub-zones.
+3. [Profit and Loss Statement by Month](https://github.com/Madiha41/AtliQ-Sales-and-Financial-Performance-Analysis-/blob/main/P%20%26%20L%20By%20Fiscal%20Month.pdf
+4. ): Provides a month-by-month analysis of the P&L to identify trends and anomalies.
+5. [Gross Margin % by Quarters](#): Analyzes gross margin percentages across different quarters, segmented by sub-zones.
 
 ## 7. Purpose of Sales Analytics
 Sales analytics in this project aim to:
